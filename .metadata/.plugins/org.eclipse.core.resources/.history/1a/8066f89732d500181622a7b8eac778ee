@@ -1,0 +1,11 @@
+package pl.javastart.dao;
+
+import java.util.List;
+
+import pl.javastart.model.User;
+
+public interface UserDao extends GenericDAO<User, Long>{
+	List<User>getAll();
+	User getUserByUsername(String username);
+
+}

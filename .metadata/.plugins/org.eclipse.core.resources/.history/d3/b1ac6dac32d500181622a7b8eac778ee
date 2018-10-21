@@ -1,0 +1,20 @@
+package pl.javastart.dao;
+
+public class MysqlDAOFactory extends DAOFactory{
+
+	@Override
+	public DiscoveryDAO getDiscoweryDAO() {
+		return new DiscoweryDAOImpl();
+	}
+
+	@Override
+	public UserDAO getUserDAO() {
+		return new UserDAOImpl();
+	}
+
+	@Override
+	public VoteDAO getVoteDAO() {
+		return new VoteDAOImpl();
+	}
+
+}

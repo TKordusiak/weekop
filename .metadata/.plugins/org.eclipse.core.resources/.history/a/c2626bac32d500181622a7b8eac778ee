@@ -1,0 +1,8 @@
+package pl.javastart.dao;
+
+import java.util.List;
+
+public interface DiscoveryDAO extends GenericDAO<Discowery, Long>{
+	List<Discovery> getAll();
+
+}

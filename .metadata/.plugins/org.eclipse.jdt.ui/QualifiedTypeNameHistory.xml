@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.sun.jmx.snmp.Timestamp"/>
+<fullyQualifiedTypeName name="java.sql.Timestamp"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.SQLClientInfoException"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="org.springframework.jdbc.core.metadata.GenericTableMetaDataProvider"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.bind.CycleRecoverable.Context"/>
+<fullyQualifiedTypeName name="javax.naming.InitialContext"/>
+<fullyQualifiedTypeName name="javax.naming.Context"/>
+<fullyQualifiedTypeName name="javax.sql.DataSource"/>
+<fullyQualifiedTypeName name="javax.naming.NamingException"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="pl.javastart.model.Discovery"/>
+<fullyQualifiedTypeName name="pl.javastart.dao.GenericDAO"/>
+<fullyQualifiedTypeName name="pl.javastart.model.Vote"/>
+<fullyQualifiedTypeName name="org.springframework.jdbc.core.namedparam.NamedParameterJdbcDaoSupport"/>
+<fullyQualifiedTypeName name="org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate"/>
+<fullyQualifiedTypeName name="pl.javastart.util.ConnectionProvider"/>
+<fullyQualifiedTypeName name="org.springframework.jdbc.support.KeyHolder"/>
+<fullyQualifiedTypeName name="org.springframework.jdbc.support.GeneratedKeyHolder"/>
+<fullyQualifiedTypeName name="org.springframework.jdbc.core.namedparam.SqlParameterSource"/>
+<fullyQualifiedTypeName name="org.springframework.jdbc.core.namedparam.BeanPropertySqlParameterSource"/>
+<fullyQualifiedTypeName name="java.lang.NoSuchFieldError"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="pl.javastart.exeption.NoSuchDbTypeException"/>
+<fullyQualifiedTypeName name="pl.javastart.model.User"/>
+<fullyQualifiedTypeName name="pl.javastart.dao.DAOFactory"/>
+<fullyQualifiedTypeName name="pl.javastart.dao.UserDAO"/>
+<fullyQualifiedTypeName name="pl.javastat.service.UserService"/>
+</qualifiedTypeNameHistroy>

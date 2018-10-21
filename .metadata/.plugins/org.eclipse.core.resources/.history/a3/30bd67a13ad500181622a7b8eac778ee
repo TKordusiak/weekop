@@ -1,0 +1,17 @@
+package pl.javastart.dao;
+
+public abstract class DAOFactory {
+	
+	public static final int MYSQL_DAO_FACTORY=1;
+	
+	public abstract DiscoveryDAO getDiscoveryDAO();
+
+	public abstract UserDAO getUserDAO();
+
+	public abstract VoteDAO getVoteDAO();
+	
+	public static DAOFaktory getDAOFactory() {
+		
+	}
+
+}

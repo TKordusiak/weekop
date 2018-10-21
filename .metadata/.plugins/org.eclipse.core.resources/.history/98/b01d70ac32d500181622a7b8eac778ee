@@ -1,0 +1,5 @@
+package pl.javastart.dao;
+
+public interface VoteDAO extends GenericDAO<Vote, Long>{
+	public Vote getVoteByUserIdDiscoveryId(long userId, long discoveryId);
+}

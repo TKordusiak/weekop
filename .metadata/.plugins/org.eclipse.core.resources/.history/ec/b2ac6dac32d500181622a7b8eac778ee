@@ -1,0 +1,5 @@
+package pl.javastart.dao;
+
+public class VoteDAOImpl implements VoteDAO {
+
+}

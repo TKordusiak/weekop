@@ -1,0 +1,8 @@
+package pl.javastart.dao;
+
+public abstract class DAOFactory {
+	public abstract DiscoveryDAO getDiscoweryDAO();
+	public abstract UserDAO getUserDAO();
+	public abstract VoteDAO getVoteDAO();
+
+}

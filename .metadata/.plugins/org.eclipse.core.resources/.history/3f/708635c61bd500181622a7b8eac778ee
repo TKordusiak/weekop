@@ -1,0 +1,42 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Weekop</title>
+	<meta http-equiv="content-Type" content="text/html; charset=UTF-8">
+	<meta name="viweport" content="width=device-width, initial-scale=1.0">
+	<link href="${pageContext.request.contextPath}/resources/css/boodstrap.min.css" type="text/css" rel="styleheet">
+	<link href="${pageContext.request.contextPath}/resources/css/style.css" type="text/css" rel="styleheet">
+</head>
+<body>
+	<nav class="navbar navbar-inverse navbar-fixed-top">
+		<div class="container">
+		<a href="#" class="navbar-brand">Weekop</a>
+		
+			<button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
+          <span class="glyphicon glyphicon-list"></span>
+          </button>
+          
+                 <div class="collapse navbar-collapse navHeaderCollapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="active"><a href="#">Główna</a></li>
+            <li><a href="#">Dodaj</a></li>
+            <li><a href="#">Zaloguj się</a></li>
+          </ul>
+        </div>
+        
+		</div>
+	</nav>
+	
+		<footer class="footer">
+			<div class="container">
+				<p class="navbar-text">Weekop developerd by TK<a href="http://javastart.pl"></a></p>
+			</div>
+		</footer>
+
+	<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+	<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+	<script src="${pageContext.request.contextPath}/resources/js/boodstrap.min.js"></script>
+</body>
+</html>
