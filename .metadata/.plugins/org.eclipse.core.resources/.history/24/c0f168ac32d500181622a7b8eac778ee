@@ -1,5 +1,0 @@
-package pl.javastart.dao;
-
-public class DiscoweryDAOImpl implements DiscoveryDAO {
-
-}
